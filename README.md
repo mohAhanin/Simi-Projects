@@ -1,6 +1,6 @@
 # Simi-Projects
 hi there
-follow this order to track the progress \n
+follow this order to track the progress 
 1 Kala 
 2 managers
 3 connecting to sql server
