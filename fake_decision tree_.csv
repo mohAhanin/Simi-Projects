@@ -1,13 +1,13 @@
 Name,Age,Job,isAdmitted,University
 Adam Smith,28,Software Developer,TRUE,University of California
-Jessica Brown,35,Project Manager,FALSE,Harvard University
-Ryan Johnson,42,Marketing Director,TRUE,University of California
-Rachel Lee,29,Graphic Designer,FALSE,Harvard University
-Andrew Chen,36,Accountant,TRUE,University of Michigan
+Jessica Brown,35,Software Developer,FALSE,Harvard University
+Ryan Johnson,42,Software Developer,TRUE,University of California
+Rachel Lee,29,Software Developer,FALSE,Harvard University
+Andrew Chen,36,Software Developer,TRUE,University of Michigan
 Emily Davis,31,Human Resources Specialist,FALSE,University of California
-Jacob Garcia,45,Business Analyst,TRUE,Harvard University
-Olivia Wilson,33,Operations Manager,FALSE,University of Michigan
-Michael Nguyen,26,Sales Representative,TRUE,University of California
+Jacob Garcia,45,Human Resources Specialist,TRUE,Harvard University
+Olivia Wilson,33,Human Resources Specialist,FALSE,University of Michigan
+Michael Nguyen,26,Human Resources Specialist,TRUE,University of California
 Sophia Kim,39,Software Engineer,FALSE,Massachusetts Institute of Technology
 Daniel Hernandez,27,Product Manager,TRUE,University of Southern California
 Mia Perez,34,Financial Analyst,FALSE,Princeton University
