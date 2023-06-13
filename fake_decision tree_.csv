@@ -1,31 +1,31 @@
 Name,Age,Job,isAdmitted,University
-Adam Smith,28,Software Developer,True,University of California
-Jessica Brown,35,Project Manager,False,Harvard University
-Ryan Johnson,42,Marketing Director,True,Stanford University
-Rachel Lee,29,Graphic Designer,False,Art Institute of Chicago
-Andrew Chen,36,Accountant,True,University of Michigan
-Emily Davis,31,Human Resources Specialist,False,Columbia University
-Jacob Garcia,45,Business Analyst,True,Yale University
-Olivia Wilson,33,Operations Manager,False,University of Texas
-Michael Nguyen,26,Sales Representative,True,University of Pennsylvania
-Sophia Kim,39,Software Engineer,False,Massachusetts Institute of Technology
-Daniel Hernandez,27,Product Manager,True,University of Southern California
-Mia Perez,34,Financial Analyst,False,Princeton University
-David Martinez,41,Marketing Manager,True,Northwestern University
-Isabella Robinson,30,Customer Service Representative,False,Arizona State University
-Ethan Wright,44,Business Development Manager,True,Duke University
-Madison Adams,32,Data Analyst,False,Brown University
-Nicholas Turner,29,Social Media Specialist,True,University of Florida
-Ava Phillips,37,Hospitality Manager,False,Cornell University
-Joshua Campbell,26,Sales Associate,True,Georgetown University
-Charlotte Evans,40,Human Resources Director,False,Vanderbilt University
-Lucas Cooper,33,IT Support Specialist,True,Rice University
-Chloe Flores,28,Copywriter,False,Boston University
-Alexander Reed,43,Sales Manager,True,Emory University
-Natalie Hill,31,Project Coordinator,False,Texas A&M University
-William Green,36,Business Consultant,True,Carnegie Mellon University
-Victoria Baker,29,Customer Experience Manager,False,Dartmouth College
-Christopher Collins,38,Software Architect,True,Virginia Tech
-Grace Wood,27,Social Media Manager,False,Northeastern University
-Tyler Mitchell,42,Operations Analyst,True,University of Illinois
-Lily Perez,30,Marketing Coordinator,False,University of Wisconsin
+Adam Smith,28,Software Developer,TRUE,University of California
+Jessica Brown,35,Project Manager,FALSE,Harvard University
+Ryan Johnson,42,Marketing Director,TRUE,University of California
+Rachel Lee,29,Graphic Designer,FALSE,Harvard University
+Andrew Chen,36,Accountant,TRUE,University of Michigan
+Emily Davis,31,Human Resources Specialist,FALSE,University of California
+Jacob Garcia,45,Business Analyst,TRUE,Harvard University
+Olivia Wilson,33,Operations Manager,FALSE,University of Michigan
+Michael Nguyen,26,Sales Representative,TRUE,University of California
+Sophia Kim,39,Software Engineer,FALSE,Massachusetts Institute of Technology
+Daniel Hernandez,27,Product Manager,TRUE,University of Southern California
+Mia Perez,34,Financial Analyst,FALSE,Princeton University
+David Martinez,41,Marketing Manager,TRUE,Northwestern University
+Isabella Robinson,30,Customer Service Representative,FALSE,Arizona State University
+Ethan Wright,44,Business Development Manager,TRUE,Duke University
+Madison Adams,32,Data Analyst,FALSE,Brown University
+Nicholas Turner,29,Social Media Specialist,TRUE,University of Florida
+Ava Phillips,37,Hospitality Manager,FALSE,Cornell University
+Joshua Campbell,26,Sales Associate,TRUE,Georgetown University
+Charlotte Evans,40,Human Resources Director,FALSE,Vanderbilt University
+Lucas Cooper,33,IT Support Specialist,TRUE,Rice University
+Chloe Flores,28,Copywriter,FALSE,Boston University
+Alexander Reed,43,Sales Manager,TRUE,Emory University
+Natalie Hill,31,Project Coordinator,FALSE,Texas A&M University
+William Green,36,Business Consultant,TRUE,Carnegie Mellon University
+Victoria Baker,29,Customer Experience Manager,FALSE,Dartmouth College
+Christopher Collins,38,Software Architect,TRUE,Virginia Tech
+Grace Wood,27,Social Media Manager,FALSE,Northeastern University
+Tyler Mitchell,42,Operations Analyst,TRUE,University of Illinois
+Lily Perez,30,Marketing Coordinator,FALSE,University of Wisconsin
