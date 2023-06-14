@@ -1,16 +1,16 @@
 Name,Age,Job,isAdmitted,University
-Adam Smith,28,Software Developer,TRUE,University of California
-Jessica Brown,35,Software Developer,FALSE,Harvard University
-Ryan Johnson,42,Software Developer,TRUE,University of California
-Rachel Lee,29,Software Developer,FALSE,Harvard University
-Andrew Chen,36,Software Developer,TRUE,University of Michigan
-Emily Davis,31,Human Resources Specialist,FALSE,University of California
-Jacob Garcia,45,Human Resources Specialist,TRUE,Harvard University
-Olivia Wilson,33,Human Resources Specialist,FALSE,University of Michigan
-Michael Nguyen,26,Human Resources Specialist,TRUE,University of California
-Sophia Kim,39,Software Engineer,FALSE,Massachusetts Institute of Technology
-Daniel Hernandez,27,Product Manager,TRUE,University of Southern California
-Mia Perez,34,Financial Analyst,FALSE,Princeton University
+Adam Smith,28,Software Developer,1,University of California
+Jessica Brown,35,Software Developer,0,Harvard University
+Ryan Johnson,42,Software Developer,1,University of California
+Rachel Lee,29,Software Developer,0,Harvard University
+Andrew Chen,36,Software Developer,1,University of Michigan
+Emily Davis,31,Human Resources Specialist,0,University of California
+Jacob Garcia,45,Human Resources Specialist,1,Harvard University
+Olivia Wilson,33,Human Resources Specialist,0,University of Michigan
+Michael Nguyen,26,Human Resources Specialist,1,University of California
+Sophia Kim,39,Software Engineer,0,Massachusetts Institute of Technology
+Daniel Hernandez,27,Product Manager,1,University of Southern California
+Mia Perez,34,Financial Analyst,0,Princeton University
 David Martinez,41,Marketing Manager,TRUE,Northwestern University
 Isabella Robinson,30,Customer Service Representative,FALSE,Arizona State University
 Ethan Wright,44,Business Development Manager,TRUE,Duke University
