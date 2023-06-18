@@ -1,0 +1,7 @@
+|--- feature_1 <= 35.50
+|   |--- feature_1 <= 28.00
+|   |   |--- class: 1
+|   |--- feature_1 >  28.00
+|   |   |--- class: 0
+|--- feature_1 >  35.50
+|   |--- class: 1

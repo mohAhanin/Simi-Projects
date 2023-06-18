@@ -1,0 +1,103 @@
+|--- Dimensions.Width<= 241.00
+|   |--- Fuel Information.City mpg<= 23.50
+|   |   |--- Fuel Information.City mpg<= 11.50
+|   |   |   |--- Dimensions.Width<= 186.50
+|   |   |   |   |--- class: Bentley
+|   |   |   |--- Dimensions.Width>  186.50
+|   |   |   |   |--- Dimensions.Width<= 191.50
+|   |   |   |   |   |--- class: Maybach
+|   |   |   |   |--- Dimensions.Width>  191.50
+|   |   |   |   |   |--- Fuel Information.City mpg<= 10.00
+|   |   |   |   |   |   |--- class: Chevrolet
+|   |   |   |   |   |--- Fuel Information.City mpg>  10.00
+|   |   |   |   |   |   |--- class: Rolls-Royce
+|   |   |--- Fuel Information.City mpg>  11.50
+|   |   |   |--- Dimensions.Width<= 59.50
+|   |   |   |   |--- Dimensions.Height<= 143.00
+|   |   |   |   |   |--- Fuel Information.City mpg<= 17.50
+|   |   |   |   |   |   |--- class: Toyota
+|   |   |   |   |   |--- Fuel Information.City mpg>  17.50
+|   |   |   |   |   |   |--- Dimensions.Width<= 48.00
+|   |   |   |   |   |   |   |--- Dimensions.Length<= 236.00
+|   |   |   |   |   |   |   |   |--- class: Volvo
+|   |   |   |   |   |   |   |--- Dimensions.Length>  236.00
+|   |   |   |   |   |   |   |   |--- class: Nissan
+|   |   |   |   |   |   |--- Dimensions.Width>  48.00
+|   |   |   |   |   |   |   |--- class: Nissan
+|   |   |   |   |--- Dimensions.Height>  143.00
+|   |   |   |   |   |--- Dimensions.Width<= 31.50
+|   |   |   |   |   |   |--- class: Toyota
+|   |   |   |   |   |--- Dimensions.Width>  31.50
+|   |   |   |   |   |   |--- Dimensions.Height<= 200.00
+|   |   |   |   |   |   |   |--- Dimensions.Width<= 44.00
+|   |   |   |   |   |   |   |   |--- class: Audi
+|   |   |   |   |   |   |   |--- Dimensions.Width>  44.00
+|   |   |   |   |   |   |   |   |--- class: Honda
+|   |   |   |   |   |   |--- Dimensions.Height>  200.00
+|   |   |   |   |   |   |   |--- class: Toyota
+|   |   |   |--- Dimensions.Width>  59.50
+|   |   |   |   |--- Dimensions.Width<= 109.00
+|   |   |   |   |   |--- Dimensions.Width<= 65.50
+|   |   |   |   |   |   |--- Dimensions.Height<= 114.50
+|   |   |   |   |   |   |   |--- class: Audi
+|   |   |   |   |   |   |--- Dimensions.Height>  114.50
+|   |   |   |   |   |   |   |--- class: Volkswagen
+|   |   |   |   |   |--- Dimensions.Width>  65.50
+|   |   |   |   |   |   |--- Dimensions.Width<= 101.00
+|   |   |   |   |   |   |   |--- class: Volvo
+|   |   |   |   |   |   |--- Dimensions.Width>  101.00
+|   |   |   |   |   |   |   |--- Dimensions.Height<= 189.50
+|   |   |   |   |   |   |   |   |--- class: Honda
+|   |   |   |   |   |   |   |--- Dimensions.Height>  189.50
+|   |   |   |   |   |   |   |   |--- class: Volvo
+|   |   |   |   |--- Dimensions.Width>  109.00
+|   |   |   |   |   |--- Dimensions.Width<= 180.00
+|   |   |   |   |   |   |--- Fuel Information.City mpg<= 12.50
+|   |   |   |   |   |   |   |--- class: Bentley
+|   |   |   |   |   |   |--- Fuel Information.City mpg>  12.50
+|   |   |   |   |   |   |   |--- class: Toyota
+|   |   |   |   |   |--- Dimensions.Width>  180.00
+|   |   |   |   |   |   |--- Fuel Information.City mpg<= 19.00
+|   |   |   |   |   |   |   |--- Dimensions.Height<= 130.00
+|   |   |   |   |   |   |   |   |--- class: Chevrolet
+|   |   |   |   |   |   |   |--- Dimensions.Height>  130.00
+|   |   |   |   |   |   |   |   |--- Fuel Information.City mpg<= 13.00
+|   |   |   |   |   |   |   |   |   |--- Dimensions.Width<= 211.50
+|   |   |   |   |   |   |   |   |   |   |--- class: BMW
+|   |   |   |   |   |   |   |   |   |--- Dimensions.Width>  211.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Nissan
+|   |   |   |   |   |   |   |   |--- Fuel Information.City mpg>  13.00
+|   |   |   |   |   |   |   |   |   |--- class: Audi
+|   |   |   |   |   |   |--- Fuel Information.City mpg>  19.00
+|   |   |   |   |   |   |   |--- Dimensions.Width<= 231.50
+|   |   |   |   |   |   |   |   |--- Dimensions.Width<= 228.50
+|   |   |   |   |   |   |   |   |   |--- Dimensions.Height<= 171.00
+|   |   |   |   |   |   |   |   |   |   |--- Dimensions.Width<= 185.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: Chevrolet
+|   |   |   |   |   |   |   |   |   |   |--- Dimensions.Width>  185.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: Audi
+|   |   |   |   |   |   |   |   |   |--- Dimensions.Height>  171.00
+|   |   |   |   |   |   |   |   |   |   |--- class: Toyota
+|   |   |   |   |   |   |   |   |--- Dimensions.Width>  228.50
+|   |   |   |   |   |   |   |   |   |--- class: Toyota
+|   |   |   |   |   |   |   |--- Dimensions.Width>  231.50
+|   |   |   |   |   |   |   |   |--- class: Volvo
+|   |--- Fuel Information.City mpg>  23.50
+|   |   |--- Dimensions.Width<= 206.00
+|   |   |   |--- Dimensions.Height<= 217.00
+|   |   |   |   |--- class: Ford
+|   |   |   |--- Dimensions.Height>  217.00
+|   |   |   |   |--- class: Chevrolet
+|   |   |--- Dimensions.Width>  206.00
+|   |   |   |--- Fuel Information.City mpg<= 25.50
+|   |   |   |   |--- class: Toyota
+|   |   |   |--- Fuel Information.City mpg>  25.50
+|   |   |   |   |--- class: Toyota
+|--- Dimensions.Width>  241.00
+|   |--- Dimensions.Height<= 169.50
+|   |   |--- Dimensions.Length<= 125.00
+|   |   |   |--- class: Audi
+|   |   |--- Dimensions.Length>  125.00
+|   |   |   |--- class: Volvo
+|   |--- Dimensions.Height>  169.50
+|   |   |--- class: Volkswagen
