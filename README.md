@@ -9,5 +9,5 @@ ML <br />
 4 polynomial regression <br />
 5 decision tree immigration <br />
 6 random forest + decision tree <br />
-
+7 finding most important features
 
