@@ -12,4 +12,5 @@ ML <br />
 7 finding most important features -> cars <br /> 
 8 guassian -> breast cancer analysis in comparison with decision tree and random forest <br />
 9 guassian -> cars analysis in comparison with decision tree and random forest <br />
+10 pca -> cars <br />
 
