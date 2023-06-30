@@ -15,4 +15,3 @@ ML <br />
 10 pca -> cars <br />
 11 3D Plotting,pca, ... -> cars <br />
 12 nlp - sentiment - regular expression
-
