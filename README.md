@@ -13,5 +13,5 @@ ML <br />
 8 guassian -> breast cancer analysis in comparison with decision tree and random forest <br />
 9 guassian -> cars analysis in comparison with decision tree and random forest <br />
 10 pca -> cars <br />
-11 3D Plotting,pca, ... -> cars
-
+11 3D Plotting,pca, ... -> cars <br />
+12 nlp - sentiment - regular expression
