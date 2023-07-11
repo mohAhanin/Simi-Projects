@@ -18,5 +18,8 @@ NLP
 12 regular expression  Class notes<br />
 13 pos\neg dataset <br />
 14 nlp Classnotes <br />
-15 nlp anxiety check dataset
+15 nlp anxiety check dataset <br />
+ 16 nlp anxiety check notebook <br />
+ 17 spam checking <br />
+
 
