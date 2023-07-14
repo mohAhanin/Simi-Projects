@@ -20,6 +20,8 @@ NLP
 14 nlp Classnotes <br />
 15 nlp anxiety check dataset <br />
  16 nlp anxiety check notebook <br />
- 17 spam checking <br />
+ 17 nlp spam checking dataset <br />
+ 18 nlp spam ham folder <br />
+ 19 nlp spam emails detection notebook <br />
 
 
