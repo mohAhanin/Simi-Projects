@@ -27,4 +27,6 @@ ML  <br />
 20 svm Classnotes  <br />
 21 svm Cars  <br />
 22 svm cars 3d <br /> 
+23 knn classnotes on iris dataset <br /> 
+24 knn on cars dataset <br /> 
 
